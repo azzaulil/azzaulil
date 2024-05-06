@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Uliiil
 - 👀 I’m interested in Automation and Manual Software Testing for Web-based, Android and API Testing
 - 🌱 I’ve experience on Robot Framework, Katalon, JMeter and Cypress. I can't waiting to be an expert of them.
-- 💞️ I’m looking to collaborate on a project that uses automated testing
+- 💞️ I’m happily to collaborate on a project that uses automated testing
 - 📫 Reach me on email azzaulil50@gmail.com
 
 <!---
